@@ -36,3 +36,6 @@
 4. Click OK
 ![Set interpreter to container](images/Set%20interpreter%20to%20container.jpg)
 
+## Run the project
+1. Go to the Barcode run configuration and press play
+2. Verify the barcode appears in the Attached Console
