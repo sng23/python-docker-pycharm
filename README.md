@@ -20,3 +20,12 @@
 2. Add a Docker, verify localhost and port is set
 3. Click Apply
 ![Connect to Docker](images/Connect to Docker.jpg)
+
+## Add Run Configuration
+1. Add Configuration...
+2. Click +, Docker, Dockerfile
+3. Give the configuration a name and an image tag
+4. Specify the Dockerfile and confirm 'Run built image' is checked
+5. Click Apply
+![Add run configuration](images/Add%20run%20configuration.jpg)
+
