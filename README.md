@@ -15,3 +15,8 @@
 3. Verify the 4 instructions in the Dockerfile
 4. Verify the contents of src/my_script.py
 
+## Set up connection to Docker
+1. Go to Settings, Build..., Docker
+2. Add a Docker, verify localhost and port is set
+3. Click Apply
+![Connect to Docker](images/Connect to Docker.jpg)
