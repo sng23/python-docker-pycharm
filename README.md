@@ -19,6 +19,7 @@
 1. Go to Settings, Build..., Docker
 2. Add a Docker, verify localhost and port is set
 3. Click Apply
+
 ![Connect to Docker](images/Connect%20to%20Docker.jpg)
     
 ## Add Run Configuration
@@ -27,6 +28,7 @@
 3. Give the configuration a name and an image tag
 4. Specify the Dockerfile and confirm 'Run built image' is checked
 5. Click Apply
+
 ![Add run configuration](images/Add%20run%20configuration.jpg)
 
 ## Tell PyCharm to use the python interpreter from the container
@@ -34,6 +36,7 @@
 2. Click Docker
 3. Verify image name is barcode:latest
 4. Click OK
+
 ![Set interpreter to container](images/Set%20interpreter%20to%20container.jpg)
 
 ## Run the project
