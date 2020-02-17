@@ -19,7 +19,7 @@
 1. Go to Settings, Build..., Docker
 2. Add a Docker, verify localhost and port is set
 3. Click Apply
-![Connect to Docker](images/Connect to Docker.jpg)
+![Connect to Docker](images/Connect%20to%20Docker.jpg)
     
 ## Add Run Configuration
 1. Add Configuration...
